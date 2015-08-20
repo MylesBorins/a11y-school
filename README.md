@@ -2,7 +2,7 @@
 
 a11y is shorthand for the word accessibility. 
 
-'ccessibility'.length === 11
+'ccessibilit'.length === 11
 
 ###Work in Progress
 
