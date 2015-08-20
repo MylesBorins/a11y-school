@@ -1,6 +1,8 @@
 #a11y-school
 
-a11y is shorthand for the word accessibility.
+a11y is shorthand for the word accessibility. 
+
+'ccessibility'.length === 11
 
 ###Work in Progress
 
