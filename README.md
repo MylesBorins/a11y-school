@@ -1,8 +1,10 @@
 #a11y-school
 
-###WORK IN PROCESS
+a11y is shorthand for the word accessibility.
 
-This will eventually be the repo for an accessibility nodeschool workshopper that individuals can use to learn how to be a better a11y.
+###Work in Progress
+
+This will eventually be the repo for an accessibility nodeschool workshopper that individuals can use to learn how to be better at a11y.
 
 Below is a quick brain dump, please send a PR about other things we could do, or ways in which the language could be improved
 
